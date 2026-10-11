@@ -1,0 +1,51 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ---------- Virtual environments ----------
+venv/
+.venv/
+env/
+ENV/
+
+# ---------- Environment variables / secrets ----------
+.env
+.env.*
+!.env.example
+
+# ---------- Database ----------
+# SQLite database used by the app (todosapp.db)
+*.db
+*.sqlite
+*.sqlite3
+
+# ---------- Packaging / build ----------
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# ---------- Tests / coverage ----------
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# ---------- Logs ----------
+*.log
+
+# ---------- IDEs / editors ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------- OS files ----------
+.DS_Store
+Thumbs.db
