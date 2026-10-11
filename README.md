@@ -256,12 +256,13 @@ Contributions are welcome! Feel free to open an *issue* or submit a *pull reques
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
 <div align="center">
 
-Made with 💙 and FastAPI by **[Your Name](https://github.com/your-username)**
+Made with 💙 and FastAPI by **[Tiago Mendes](https://github.com/tetigo)**
+tetigo@gmail.com
 
 </div>
